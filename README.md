@@ -10,5 +10,5 @@ Sơ đồ liên kết node trong hệ thống robot:
 ![Alt text](image/2.png)
 Sơ đồ khối mô tả thuật toán PID:
 ![Alt text](image/1.png)
-Thiết kế robot:
+Bản thiết kế phần khung của robot, được thiết kế dựa trên nguyên lí hoạt động của robot vi sai di động:
 ![Alt text](image/3.png)
